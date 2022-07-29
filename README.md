@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**olaleyejosepholuwole/olaleyejosepholuwole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Assessment of Public Health and Expenditure Per Capita/olaleyejosepholuwole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
